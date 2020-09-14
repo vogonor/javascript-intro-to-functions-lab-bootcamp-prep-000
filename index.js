@@ -18,6 +18,6 @@ sayHiToGrandma(string) {
      return "YES INDEED!"
   } else if(string.toLowerCase()){
      return "I can't hear you!"
-  }else if(string.Equ)
+  }else if(string === "")
   )
 }
